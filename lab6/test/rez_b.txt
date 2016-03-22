@@ -1,0 +1,2 @@
+a= 1  b= 3 c= 2 rez= 0 x1= -2 x2= -1 X1= -2.00 X2 =-1.00 test pass
+a= 1  b= 10 c= -24 rez= 0 x1= -12 x2= 2 X1= -12.00 X2 =2.00 test pass
