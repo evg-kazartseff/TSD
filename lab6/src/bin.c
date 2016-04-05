@@ -12,7 +12,7 @@ int bin(int a, int b, int c, float X[])
 	}
 	else {
 		float d = diskr(a, b, c);
-			if (d < 0) {
+			if (d == -1) {
 				return d;
 			}
 			else {
